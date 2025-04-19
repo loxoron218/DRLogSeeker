@@ -57,7 +57,7 @@ cargo build --release
 ```
 
 ## Contributing
-All contributions are welcomed, specially:
+All contributions are welcomed, especially:
 - GTK4 CSS wizards
 - Rust parallelism shamans
 - i18n/Russian language specialists
