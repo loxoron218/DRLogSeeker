@@ -46,7 +46,7 @@ flatpak install flathub com.github.drlogseeker
 2. **Filter Text Files**  
    Press `Ctrl+F` to search and choose 'Text' from the filetype menu. Then press`Ctrl+A` to select all files and download them
 3. **Batch Analyze**  
-   Open DRLogSeeker and pick the folder all the files *.txt/logare located in and scan
+   Open DRLogSeeker and pick the folder all the files *.txt/log are located in and scan
 
 ## Development
 
